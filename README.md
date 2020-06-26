@@ -1,2 +1,2 @@
 # UndoIDE
-Deutsche HTML IDE geschrieben in Java
+Deutsche HTML IDE, geschrieben in Java
